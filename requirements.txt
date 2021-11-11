@@ -4,16 +4,16 @@ backcall==0.2.0
 bleach==4.1.0
 brotlipy==0.7.0
 certifi==2021.10.8
-cffi @ file:///tmp/build/80754af9/cffi_1625814692085/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cffi==1.14.6
+charset-normalizer==2.0.4
 conda==4.10.3
-conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262147379/work
-cryptography @ file:///tmp/build/80754af9/cryptography_1635366129652/work
+conda-package-handling==1.7.3
+cryptography==35.0.0
 debugpy==1.5.1
 decorator==5.1.0
 defusedxml==0.7.1
 entrypoints==0.3
-idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+idna==3.2
 ipykernel==6.5.0
 ipython==7.29.0
 ipython-genutils==0.2.0
@@ -40,30 +40,33 @@ pandocfilters==1.5.0
 parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
+pip==21.2.4
 prometheus-client==0.12.0
 prompt-toolkit==3.0.22
 ptyprocess==0.7.0
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 Pygments==2.10.0
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyOpenSSL==21.0.0
 pyparsing==2.4.7
 pyrsistent==0.18.0
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+PySocks==1.7.1
 python-dateutil==2.8.2
 pyzmq==22.3.0
 qtconsole==5.2.0
 QtPy==1.11.2
-requests @ file:///tmp/build/80754af9/requests_1629994808627/work
-ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016711199/work
+requests==2.26.0
+ruamel-yaml-conda==0.15.100
 Send2Trash==1.8.0
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+setuptools==58.0.4
+six==1.16.0
 terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
-tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+tqdm==4.62.3
 traitlets==5.1.1
 urllib3==1.26.7
 wcwidth==0.2.5
 webencodings==0.5.1
+wheel==0.37.0
 widgetsnbextension==3.5.2
